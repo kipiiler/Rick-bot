@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "html-prettify": "^1.0.3",
+    "puppeteer": "^10.2.0"
+  }
+}
